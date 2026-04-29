@@ -1,6 +1,4 @@
-# 7.CI-CD-Pipeline-to-Deploy-Node.js-Application
-
-#  CI/CD Pipeline to Deploy Node.js Application (Without CodeBuild)
+# 7.CI-CD-Pipeline-to-Deploy-Node.js-Application (Without CodeBuild)
 
 ##  Project Overview
 This project demonstrates a **CI/CD pipeline for deploying a Node.js application automatically** using AWS services and GitHub.
@@ -73,7 +71,7 @@ GitHub → CodePipeline → CodeDeploy → EC2 → Application Live
 
 5. Application Deployment Output on AWS EC2
 
-   <img width="1238" height="444" alt="Screenshot 2026-04-29 170909" src="https://github.com/user-attachments/assets/db47916b-475f-4062-b107-d03800b1661b" />
+ <img width="1238" height="444" alt="Screenshot 2026-04-29 170909" src="https://github.com/user-attachments/assets/db47916b-475f-4062-b107-d03800b1661b" />
 
 ## Conclusion
 This project shows how to build a cost-effective CI/CD pipeline without CodeBuild, making deployment faster and automated.
